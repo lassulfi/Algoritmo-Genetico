@@ -1,0 +1,11 @@
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.exe
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\AlgoritmoGenetico.pdb
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\bin\Debug\ZedGraph.dll
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csprojResolveAssemblyReference.cache
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Form1.resources
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.Properties.Resources.resources
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.csproj.GenerateResource.Cache
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.exe
+C:\Users\LuisDaniel\documents\visual studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.pdb
+C:\Users\LuisDaniel\Documents\Visual Studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TesteCrossover.resources
+C:\Users\LuisDaniel\Documents\Visual Studio 2015\Projects\AlgoritmoGenetico\AlgoritmoGenetico\obj\Debug\AlgoritmoGenetico.TelaPrincipal.resources
